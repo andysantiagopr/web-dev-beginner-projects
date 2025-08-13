@@ -1,15 +1,28 @@
-Web Dev Beginner Projects
-Beginner HTML, CSS, and JavaScript projects documenting my web development learning journey.
+# Web Dev Beginner Projects
 
-📚 About
-This repo contains small practice projects built while learning frontend development. Each one helps me improve in structure, styling, and interactivity.
+Beginner **HTML**, **CSS**, and **JavaScript** projects documenting my web development learning journey.
 
-🚀 How to View
-Click into a project folder and open the HTML file in your browser. Live links will be added later.
+---
 
-🛠 Skills Practiced
-HTML5 basics
+## 📚 About
+This repo contains small practice projects built while learning frontend development.  
+Each project helps me improve in structure, styling, and interactivity.
 
-CSS styling and layout
+---
 
-JavaScript fundamentals
+## 📂 Projects
+1. **Cat Photo App** – My first HTML project, practicing basic tags, images, and links.  
+2. *(More coming soon...)*
+
+---
+
+## 🚀 How to View
+Click into a project folder and open the HTML file in your browser.  
+Live links will be added later.
+
+---
+
+## 🛠 Skills Practiced
+- **HTML5 basics**  
+- **CSS styling and layout**  
+- **JavaScript fundamentals**
