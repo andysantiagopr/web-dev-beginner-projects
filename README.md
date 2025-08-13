@@ -10,12 +10,6 @@ Each project helps me improve in structure, styling, and interactivity.
 
 ---
 
-## 📂 Projects
-1. **Cat Photo App** – My first HTML project, practicing basic tags, images, and links.  
-2. *(More coming soon...)*
-
----
-
 ## 🚀 How to View
 Click into a project folder and open the HTML file in your browser.  
 Live links will be added later.
