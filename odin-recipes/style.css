@@ -1,0 +1,37 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color:aliceblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    list-style-position: inside;
+    display: inline-block;
+}
+
+body.index {
+    background-image: url("https://images.unsplash.com/photo-1564598328706-70cecb6ad257?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687");
+}
+
+body.mac,
+body.lasagna, 
+body.grilled-cheese {
+    background-image: url("https://images.unsplash.com/photo-1690965704262-83452e27ef53?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687");
+}
