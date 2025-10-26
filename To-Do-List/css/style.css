@@ -1,0 +1,28 @@
+body{
+    background:url("https://coolbackgrounds.imgix.net/3FwzKAy2Fe0aDvRqg82C50/619a719ac1fbd3d1475ccd8adfbb1521/ashim-d-silva-medium-ed909940.jpg?w=1080&q=60&auto=format,compress");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #F0F0F0;
+    text-align: center;
+}
+
+h1{
+    background-color: rgba(0,0,0,0.5);
+    color:#FFFFFF;
+}
+
+h2{
+    background-color:rgba(0,0,0,0.5);
+    color:#FFFFFF;
+}
+
+ul {
+  text-align: left;         
+  display: inline-block;    
+  margin: 0 auto;           
+}
